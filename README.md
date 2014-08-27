@@ -1,4 +1,4 @@
-home-js.github.io
+homedash.github.io
 =================
 
-Website for homejs
+Website for HomeDash
